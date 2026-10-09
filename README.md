@@ -1,4 +1,4 @@
-# Project X=2
+# Project 2
 
 - Name: Dolan Lavoie
 - Email: dolanlavoie@u.boisestate.edu
